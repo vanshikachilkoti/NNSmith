@@ -1,0 +1,301 @@
+description,steps_to_reproduce,severity,status
+School stock how PM interest once west.,"1. Run the following PyTorch code:
+import torch
+x = torch.tensor([[1, 2], [3, 4]])
+y = torch.sum(x, dim=0)
+print(y)
+2. Observe the output.",Medium,In Progress
+Sell daughter quite record yourself statement oil with care thousand item hair.,"1. Run the following PyTorch code:
+import torch
+x = torch.tensor([1, 0, 3])
+y = torch.nonzero(x)
+print(y)
+2. Observe the output.",Low,Closed
+Face glass performance soldier four development art.,"1. Run the following PyTorch code:
+import torch
+x = torch.tensor([1, 0, 3])
+y = torch.nonzero(x)
+print(y)
+2. Observe the output.",Low,Open
+Teacher spring low behind respond shake sea.,"1. Run the following PyTorch code:
+import torch
+x = torch.tensor([1, 2, 3])
+y = torch.mean(x)
+print(y)
+2. Observe the output.",Medium,Closed
+Seat effort look authority for major just while president example father.,"1. Run the following PyTorch code:
+import torch
+x = torch.tensor([[1, 2], [3, 4]])
+y = torch.sum(x, dim=0)
+print(y)
+2. Observe the output.",Medium,In Progress
+Keep attention money store similar character movie miss three opportunity big culture camera.,"1. Run the following PyTorch code:
+import torch
+x = torch.tensor([1.0, 2.0, 3.0])
+y = torch.sqrt(x)
+print(y)
+2. Observe the output.",High,Open
+Eat knowledge great your range score thought.,"1. Run the following PyTorch code:
+import torch
+x = torch.tensor([[1, 2], [3, 4]])
+y = torch.sum(x, dim=0)
+print(y)
+2. Observe the output.",Low,Closed
+Candidate including nation catch child type responsibility second between land each like experience.,"1. Run the following PyTorch code:
+import torch
+x = torch.tensor([1, 2, 3])
+y = torch.mean(x)
+print(y)
+2. Observe the output.",High,Closed
+Alone think wall from half million anything arm marriage.,"1. Run the following PyTorch code:
+import torch
+x = torch.tensor([1.0, 2.0, 3.0])
+y = torch.sqrt(x)
+print(y)
+2. Observe the output.",Medium,In Progress
+Claim increase lay nation area art.,"1. Run the following PyTorch code:
+import torch
+x = torch.tensor([1.0, 2.0, 3.0])
+y = torch.sqrt(x)
+print(y)
+2. Observe the output.",Medium,In Progress
+Offer forget bad since customer sea offer skin.,"1. Run the following PyTorch code:
+import torch
+x = torch.tensor([1.0, 2.0, 3.0])
+y = torch.sqrt(x)
+print(y)
+2. Observe the output.",Low,Closed
+Assume us company man heart very run performance factor message that your home.,"1. Run the following PyTorch code:
+import torch
+x = torch.tensor([1, 2, 3])
+y = torch.mean(x)
+print(y)
+2. Observe the output.",Medium,Open
+Could carry whether room key great place sea suddenly perform evidence rise crime.,"1. Run the following PyTorch code:
+import torch
+x = torch.tensor([[1, 2], [3, 4]])
+y = torch.sum(x, dim=0)
+print(y)
+2. Observe the output.",High,Open
+They carry audience visit Congress deal kitchen.,"1. Run the following PyTorch code:
+import torch
+x = torch.tensor([[1, 2], [3, 4]])
+y = torch.sum(x, dim=0)
+print(y)
+2. Observe the output.",High,Closed
+Program policy name ahead your development subject old full former rich case.,"1. Run the following PyTorch code:
+import torch
+x = torch.tensor([1, 2, 3])
+y = torch.mean(x)
+print(y)
+2. Observe the output.",Low,Open
+Instead risk ahead clearly machine staff water town who.,"1. Run the following PyTorch code:
+import torch
+x = torch.tensor([1, 0, 3])
+y = torch.nonzero(x)
+print(y)
+2. Observe the output.",Low,Closed
+Type design any purpose network star.,"1. Run the following PyTorch code:
+import torch
+x = torch.tensor([1, 0, 3])
+y = torch.nonzero(x)
+print(y)
+2. Observe the output.",Low,Closed
+A step until explain hot appear society line gas.,"1. Run the following PyTorch code:
+import torch
+x = torch.tensor([1, 0, 3])
+y = torch.nonzero(x)
+print(y)
+2. Observe the output.",Medium,Closed
+Must probably idea there couple give hospital see result.,"1. Run the following PyTorch code:
+import torch
+x = torch.tensor([[1, 2], [3, 4]])
+y = torch.sum(x, dim=0)
+print(y)
+2. Observe the output.",High,Open
+Seem security result form fly relate former tend table image successful.,"1. Run the following PyTorch code:
+import torch
+x = torch.tensor([1, 2, 3])
+y = torch.mean(x)
+print(y)
+2. Observe the output.",Medium,In Progress
+Color realize kind special early tax individual about reach goal huge.,"1. Run the following PyTorch code:
+import torch
+x = torch.tensor([[1, 2], [3, 4]])
+y = torch.sum(x, dim=0)
+print(y)
+2. Observe the output.",Medium,In Progress
+Score federal family seek always candidate war.,"1. Run the following PyTorch code:
+import torch
+x = torch.tensor([1, 2, 3])
+y = torch.mean(x)
+print(y)
+2. Observe the output.",High,Closed
+Rise tree involve maintain manager answer push.,"1. Run the following PyTorch code:
+import torch
+x = torch.tensor([1, 2, 3])
+y = x + 2
+print(y)
+2. Observe the output.",High,Open
+Have popular tough sit family issue citizen sing decade nearly.,"1. Run the following PyTorch code:
+import torch
+x = torch.tensor([1.0, 2.0, 3.0])
+y = torch.sqrt(x)
+print(y)
+2. Observe the output.",High,In Progress
+Since day hope participant involve report center under although.,"1. Run the following PyTorch code:
+import torch
+x = torch.tensor([1, 2, 3])
+y = torch.mean(x)
+print(y)
+2. Observe the output.",Low,In Progress
+Key build world interesting population expect start everyone sound order particular.,"1. Run the following PyTorch code:
+import torch
+x = torch.tensor([1, 0, 3])
+y = torch.nonzero(x)
+print(y)
+2. Observe the output.",High,Closed
+Region when describe interesting language although end.,"1. Run the following PyTorch code:
+import torch
+x = torch.tensor([1, 2, 3])
+y = x + 2
+print(y)
+2. Observe the output.",Medium,In Progress
+Friend push goal challenge her Mr blue since.,"1. Run the following PyTorch code:
+import torch
+x = torch.tensor([1, 2, 3])
+y = x + 2
+print(y)
+2. Observe the output.",High,Closed
+Wait now pass close evening movement side surface laugh program blue quickly your.,"1. Run the following PyTorch code:
+import torch
+x = torch.tensor([[1, 2], [3, 4]])
+y = torch.sum(x, dim=0)
+print(y)
+2. Observe the output.",Low,Closed
+Pay need quite couple treat thing cup order.,"1. Run the following PyTorch code:
+import torch
+x = torch.tensor([1, 2, 3])
+y = torch.mean(x)
+print(y)
+2. Observe the output.",High,Closed
+Father knowledge present himself affect safe product will by stage describe almost talk.,"1. Run the following PyTorch code:
+import torch
+x = torch.tensor([1, 2, 3])
+y = torch.mean(x)
+print(y)
+2. Observe the output.",High,In Progress
+Treat maintain pattern though address challenge.,"1. Run the following PyTorch code:
+import torch
+x = torch.tensor([1.0, 2.0, 3.0])
+y = torch.sqrt(x)
+print(y)
+2. Observe the output.",Medium,Closed
+Drop station strong brother well address forward tell environment hot my.,"1. Run the following PyTorch code:
+import torch
+x = torch.tensor([1, 2, 3])
+y = torch.mean(x)
+print(y)
+2. Observe the output.",High,Open
+Much occur rock large step chance ok create moment speak article describe.,"1. Run the following PyTorch code:
+import torch
+x = torch.tensor([[1, 2], [3, 4]])
+y = torch.sum(x, dim=0)
+print(y)
+2. Observe the output.",Low,Closed
+Scientist name final response writer itself plan million team woman attention.,"1. Run the following PyTorch code:
+import torch
+x = torch.tensor([1, 2, 3])
+y = x + 2
+print(y)
+2. Observe the output.",Low,Closed
+Sort than alone place oil source.,"1. Run the following PyTorch code:
+import torch
+x = torch.tensor([1.0, 2.0, 3.0])
+y = torch.sqrt(x)
+print(y)
+2. Observe the output.",High,Closed
+Hold economy it hour service remember beautiful television.,"1. Run the following PyTorch code:
+import torch
+x = torch.tensor([1.0, 2.0, 3.0])
+y = torch.sqrt(x)
+print(y)
+2. Observe the output.",Medium,Closed
+Performance lose from foreign animal reason.,"1. Run the following PyTorch code:
+import torch
+x = torch.tensor([1, 2, 3])
+y = torch.mean(x)
+print(y)
+2. Observe the output.",Low,In Progress
+Wear beautiful turn since say painting left no.,"1. Run the following PyTorch code:
+import torch
+x = torch.tensor([1, 2, 3])
+y = x + 2
+print(y)
+2. Observe the output.",High,Closed
+Commercial financial partner firm something around deal itself husband almost end.,"1. Run the following PyTorch code:
+import torch
+x = torch.tensor([[1, 2], [3, 4]])
+y = torch.sum(x, dim=0)
+print(y)
+2. Observe the output.",High,Closed
+Go appear card water bar shake born wish develop heavy probably almost similar.,"1. Run the following PyTorch code:
+import torch
+x = torch.tensor([1, 0, 3])
+y = torch.nonzero(x)
+print(y)
+2. Observe the output.",Medium,Open
+End anything government body present own.,"1. Run the following PyTorch code:
+import torch
+x = torch.tensor([1, 0, 3])
+y = torch.nonzero(x)
+print(y)
+2. Observe the output.",High,Closed
+Key strategy paper indeed soon control place early activity movement our write method.,"1. Run the following PyTorch code:
+import torch
+x = torch.tensor([[1, 2], [3, 4]])
+y = torch.sum(x, dim=0)
+print(y)
+2. Observe the output.",Medium,Closed
+Agreement piece reduce base cultural whole prevent leg.,"1. Run the following PyTorch code:
+import torch
+x = torch.tensor([1, 2, 3])
+y = x + 2
+print(y)
+2. Observe the output.",Medium,In Progress
+Speak think food make one change subject father build system.,"1. Run the following PyTorch code:
+import torch
+x = torch.tensor([1, 2, 3])
+y = torch.mean(x)
+print(y)
+2. Observe the output.",High,In Progress
+Hot age woman various trade within work education forward.,"1. Run the following PyTorch code:
+import torch
+x = torch.tensor([1, 2, 3])
+y = x + 2
+print(y)
+2. Observe the output.",Medium,Closed
+Art less involve enjoy industry court ground federal.,"1. Run the following PyTorch code:
+import torch
+x = torch.tensor([1, 0, 3])
+y = torch.nonzero(x)
+print(y)
+2. Observe the output.",High,In Progress
+Table including week task perhaps partner morning common interview employee recently candidate way.,"1. Run the following PyTorch code:
+import torch
+x = torch.tensor([1, 2, 3])
+y = torch.mean(x)
+print(y)
+2. Observe the output.",Medium,Open
+Fire so value role throw field three role protect long deep.,"1. Run the following PyTorch code:
+import torch
+x = torch.tensor([1, 0, 3])
+y = torch.nonzero(x)
+print(y)
+2. Observe the output.",Medium,Closed
+Natural friend now community help series resource matter power begin difficult listen join.,"1. Run the following PyTorch code:
+import torch
+x = torch.tensor([1, 2, 3])
+y = x + 2
+print(y)
+2. Observe the output.",Medium,Closed
